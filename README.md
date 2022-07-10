@@ -44,7 +44,8 @@ The code is currently tested only on GPU
       - Modify `CUDA_VISIBLE_DEVICES` to proper cuda device id and `data_base` to proper dataset in  ``` run_train.sh ```
       
       - Activate virtual environment(e.g. conda) and then run the script ```bash run_train_resnet.sh``` to train a resnet50 model.
-      
+    
+    ![table](performance2.png)
     ![table](performance.png)
 
 
