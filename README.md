@@ -1,8 +1,8 @@
-# Category Regularization and Instance Noise-Cleaning for Webly Supervised Fine-Grained Recognition
+# Group Benefits Instance for Data Purificationn
 
 Introduction
 ------------
-This is the source code for our paper **Category Regularization and Instance Noise-Cleaning for Webly Supervised Fine-Grained Recognition**
+This is the source code for our paper **Group Benefits Instance for Data Purification**
 
 Network Architecture
 --------------------
